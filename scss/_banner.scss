@@ -1,0 +1,84 @@
+.titulo {
+    color: greenyellow;
+    text-align: center;
+    font-family: 'Luckiest Guy', cursive;
+    margin-top: 85px;
+    margin-bottom: 20px;
+    font-size: 90px;
+    border-bottom: solid 1px sandybrown;
+  }
+  
+  .subtitulo {
+    text-align: center;
+    background-color: black;
+    color: greenyellow;
+    font-family: 'Luckiest Guy', cursive;
+    margin-top: 60px;
+    font-size: 40px;
+  }
+  
+  p {
+    background-color: bisque;
+    text-align: center;
+    margin-top: 20px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .flexPadre {
+    max-width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .hijoFlex {
+    width: 350px;
+    max-width: 400px;
+    margin: 10px;
+    padding: 8px;
+  }
+  
+  .hijoFlex2 {
+    width: 350px;
+    max-width: 400px;
+    margin: 10px;
+    background-color: black;
+    padding: 8px;
+  }
+  
+  .comen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .botones {
+    border: 0px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .mapa {
+    width: 400px;
+    height: 350px;
+    display: block;
+    margin: 0 auto;
+  }
+  .receee {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 0 55px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 15px;
+  }
+  

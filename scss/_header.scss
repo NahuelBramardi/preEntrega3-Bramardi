@@ -1,0 +1,40 @@
+
+@mixin anclas {
+    text-decoration: none;
+    color: orangered;
+}
+
+header {
+    border-top: solid 1px sandybrown;
+    border-bottom: solid 1px sandybrown;
+  }
+  
+  .miLogo {
+    width: 150px;
+  }
+  
+  .fondoNav {
+    background-color: black;
+  }
+  
+  .btn {
+    background-color: white;
+  }
+  
+  .color {
+    color: sandybrown;
+  }
+  
+  li {
+    list-style: none;
+    display: inline-block;
+    padding: 0 10px;
+  
+    a {
+        @include anclas;
+      font-size: 20px;
+      font-weight: 600;
+      text-transform: uppercase;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+  }

@@ -1,0 +1,155 @@
+.ulRecetas {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 0;
+  }
+  
+  .liRecetas {
+    margin: 30px;
+    padding: 118px;
+    background-color: black;
+    text-align: center;
+  }
+  
+  .fondoR {
+    background-image: url(../img/alimentos-saludables.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+  }
+  
+  .fondoRe {
+    background-image: url(../img/logo-sin-tacc.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+  }
+  
+  .fondoRec {
+    background-image: url(../img/sin\ sal.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+  }
+  
+  .fondoRece {
+    background-image: url(../img/bandera-argentina.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+  }
+  
+  .fondoRecet {
+    background-image: url(../img/bandera-mexicana.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+  }
+  
+  .fondoReceta {
+    background-image: url(../img/bandera-españa.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+  }
+  
+  .fondoRecetas {
+    background-image: url(../img/bandera-japon.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+  }
+  
+  .argentina {
+    background-image: url(../img/bandera-arg-fondo.jpg);
+    background-color: rgb(29, 29, 29);
+    background-blend-mode: soft-light;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 25px;
+  }
+  
+  .mexico {
+    background-image: url(../img/bandera-mexico-fondo.jpg);
+    background-color: rgb(29, 29, 29);
+    background-blend-mode: soft-light;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 25px;
+  }
+  
+  .españa {
+    background-image: url(../img/bandera-esp-fondo.jpg);
+    background-color: rgb(29, 29, 29);
+    background-blend-mode: soft-light;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 25px;
+  }
+  
+  .asia {
+    background-image: url(../img/bandera-japon-fondo.jpg);
+    background-color: rgb(29, 29, 29);
+    background-blend-mode: soft-light;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 25px;
+  }
+  
+  .sinsal {
+    background-image: url(../img/sinsal-fondo.jpg);
+    background-color: rgb(29, 29, 29);
+    background-blend-mode: soft-light;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 25px;
+  }
+  
+  .sintacc {
+    background-image: url(../img/fondo-sintacc.jpg);
+    background-color: rgb(29, 29, 29);
+    background-blend-mode: soft-light;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 25px;
+  }
+  
+  .saludables {
+    background-image: url(../img/fondo-saludable.jpg);
+    background-color: rgb(29, 29, 29);
+    background-blend-mode: soft-light;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 25px;
+  }
+  
