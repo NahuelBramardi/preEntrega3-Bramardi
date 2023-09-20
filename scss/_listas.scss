@@ -152,4 +152,25 @@
     font-family: 'Bebas Neue', sans-serif;
     font-size: 25px;
   }
+
+  .tituloRecetas {
+    background-color: aliceblue;
+    color: red;
+    text-align: center;
+    font-family: 'Satisfy', cursive;;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 50px;
+  }
+  
+  .card {
+    border-radius: 50px;
+  }
+  
+  .card-img-top {
+    width: 100%;
+    height: 300px;
+    border-radius: 50px;
+  }
   

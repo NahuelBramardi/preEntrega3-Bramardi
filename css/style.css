@@ -105,21 +105,6 @@ p {
   padding: 8px;
 }
 
-.comen {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.botones {
-  border: 0px;
-  padding: 10px;
-  margin-left: 10px;
-  margin-top: 10px;
-  justify-content: center;
-  text-align: center;
-}
-
 .mapa {
   width: 400px;
   height: 350px;
@@ -323,15 +308,6 @@ p {
   font-size: 25px;
 }
 
-.contac {
-  color: greenyellow;
-  margin: 10px 20px;
-}
-
-.contacto {
-  background-image: linear-gradient(to right, #0077B5, #E4E5E6);
-}
-
 .tituloRecetas {
   background-color: aliceblue;
   color: red;
@@ -351,6 +327,15 @@ p {
   width: 100%;
   height: 300px;
   border-radius: 50px;
+}
+
+.contac {
+  color: greenyellow;
+  margin: 10px 20px;
+}
+
+.contacto {
+  background-image: linear-gradient(to right, #0077B5, #E4E5E6);
 }
 
 /*# sourceMappingURL=style.css.map */
