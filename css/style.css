@@ -1,5 +1,6 @@
-
+@charset "UTF-8";
 @import url("https://fonts.googleapis.com/css2?family=Kanit:ital@1&family=Luckiest+Guy&family=Notable&family=Permanent+Marker&family=Rock+Salt&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -329,6 +330,27 @@ p {
 
 .contacto {
   background-image: linear-gradient(to right, #0077B5, #E4E5E6);
+}
+
+.tituloRecetas {
+  background-color: aliceblue;
+  color: red;
+  text-align: center;
+  font-family: "Satisfy", cursive;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 50px;
+}
+
+.card {
+  border-radius: 50px;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 300px;
+  border-radius: 50px;
 }
 
 /*# sourceMappingURL=style.css.map */
